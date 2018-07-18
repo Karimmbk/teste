@@ -19,12 +19,14 @@ a, a:hover, a:focus {
     font-size: 16px;
 	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 	transition: all .5s ease;
+	border-color: transparent;
 }
 
 .btn:hover {
 	
 	background-color: #27328B;
 	color: #fff;
+	border-color: transparent;
 }
 
 .btn-lg {
