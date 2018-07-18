@@ -19,14 +19,12 @@ a, a:hover, a:focus {
     font-size: 16px;
 	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
 	transition: all .5s ease;
-	border-color: transparent;
 }
 
 .btn:hover {
 	
-	background-color: #fff;
-	color: #000;
-	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.25);
+	background-color: #27328B;
+	color: #fff;
 }
 
 .btn-lg {
@@ -42,9 +40,8 @@ a, a:hover, a:focus {
 
 .btn-lg:hover {
 	
-	background-color: #fff;
-	color: #000;
-	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.25);
+	background-color: #27328B;
+	color: #fff;
 }
 
 /* Header */
@@ -90,9 +87,8 @@ a, a:hover, a:focus {
 
 .menu li a.btn:hover{
 	
-	background-color: #fff;
-	color: #000;
-	box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.25);
+	background-color: #27328B;
+	color: #fff;
 }
 
 
